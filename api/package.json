@@ -1,0 +1,15 @@
+{
+  "name": "services",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hafeez Syed <feeziman007@hotmail.com>",
+  "license": "MIT"
+}
